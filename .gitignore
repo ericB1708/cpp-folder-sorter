@@ -1,0 +1,13 @@
+# CMake build directories
+build/
+out/
+bin/
+
+# VS Code settings
+.vscode/
+
+# Compiled object files and binaries
+*.exe
+*.dll
+*.lib
+*.pdb
